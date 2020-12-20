@@ -28,5 +28,5 @@ My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics a
 - 💬 Ask me about by experiences at AARP, the Gies Disruption Lab and my Course Projects.
 - 📫 How to reach me : 
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/mehuldugar/).
-  - Connect with me via [email](mehuldugar@gmail.com).
+  - Connect with me via [email](mailto:mehuldugar@gmail.com?subject=[GitHub]%20Github%20Profile).
 
