@@ -20,11 +20,11 @@ My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics a
 - 😄 Pronouns : He/Him
 
 - 💡 My Interests :
-  - Artificial Intelligence 🧠
-  - Machine Learning ⚙️
-  - Robotics 🤖
-  - Data Science 📊
-  - App Development 👨‍💻
+  - 🧠 Artificial Intelligence 
+  - ⚙️ Machine Learning 
+  - 🤖 Robotics 
+  - 📊 Data Science 
+  - 👨‍💻 App Development 
 
 - 🔭 I’m currently working on :
   - A Machine Learning Grouping Tool for Gies College of Business.
