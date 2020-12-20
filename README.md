@@ -31,7 +31,7 @@ My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics a
 - 🌱 I’m currently learning :
   - To work as a Project Manager at the Gies Disruption Lab.
   - To build voice skills which have cross-platform compatibility. (Using Jovo Framework)
-  - To build Machine Learning Models with real life application.
+  - To build Machine Learning Models with real life applications.
   
 - 💬 Ask me about by experiences at CISCO, IBM, AARP, the Gies Disruption Lab and my Course Projects.
 
