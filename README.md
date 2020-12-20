@@ -21,7 +21,8 @@ My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics a
 
 - 💡 My Interests :
   - 🧠 Artificial Intelligence 
-  - ⚙️ Machine Learning 
+    - ⚙️ Machine Learning 
+    - 🗄 Deep Learning
   - 🤖 Robotics 
   - 📊 Data Science 
   - 👨‍💻 App Development 
