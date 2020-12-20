@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics at the University of Illinois at Urbana-Champaign.
+
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on 
+  - A Machine Learning Grouping Tool for Gies College of Business.
+  - A Voice assistant application for AARP's Staying Sharp Program.
