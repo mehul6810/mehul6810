@@ -22,13 +22,18 @@ My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics a
 - 🔭 I’m currently working on :
   - A Machine Learning Grouping Tool for Gies College of Business.
   - A Voice assistant application for AARP's Staying Sharp Program.
+
+- 💼 I'm currently working with :
+  - AARP Tech Nest                         (Software Engineering Intern)
+  - Gies Disruption Lab                    (Project Manager)
+  - Eta Kappa Nu Alpha, ECE Honors Society (Treasurer)
   
 - 🌱 I’m currently learning :
   - To work as a Project Manager at the Gies Disruption Lab.
   - To build voice skills which have cross-platform compatibility. (Using Jovo Framework)
   - To build Machine Learning Models with real life application.
   
-- 💬 Ask me about by experiences at AARP, the Gies Disruption Lab and my Course Projects.
+- 💬 Ask me about by experiences at CISCO, IBM, AARP, the Gies Disruption Lab and my Course Projects.
 
 - 📫 How to reach me : 
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/mehuldugar/).
