@@ -18,15 +18,24 @@ Here are some ideas to get you started:
 My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics at the University of Illinois at Urbana-Champaign.
 
 - 😄 Pronouns: He/Him
+
 - 🔭 I’m currently working on :
   - A Machine Learning Grouping Tool for Gies College of Business.
   - A Voice assistant application for AARP's Staying Sharp Program.
+  
 - 🌱 I’m currently learning :
   - To work as a Project Manager at the Gies Disruption Lab.
   - To build voice skills which have cross-platform compatibility. (Using Jovo Framework)
   - To build Machine Learning Models with real life application.
+  
 - 💬 Ask me about by experiences at AARP, the Gies Disruption Lab and my Course Projects.
+
 - 📫 How to reach me : 
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/mehuldugar/).
   - Connect with me via [email](mailto:mehuldugar@gmail.com?subject=[GitHub]%20Github%20Profile).
+  
+- ⚡ Fun fact :
+  - I enjoy Photography a lot, look for my photos on my website :).
+  - I also am seeking to become a hobbyist barista ☕️.
+
 
