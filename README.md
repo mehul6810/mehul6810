@@ -51,5 +51,4 @@ My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics a
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/mehuldugar/).
   - Connect with me via [email](mailto:mehuldugar@gmail.com?subject=[GitHub]%20Github%20Profile).
   
-
-
+For more information on my projects, take a look at my website!
