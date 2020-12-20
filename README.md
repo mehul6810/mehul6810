@@ -40,7 +40,7 @@ My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics a
   - Connect with me via [email](mailto:mehuldugar@gmail.com?subject=[GitHub]%20Github%20Profile).
   
 - ⚡ Fun fact :
-  - I enjoy Photography a lot, look for my photos on my website :).
+  - I enjoy Photography a lot, look for photos on my website :).
   - I also am seeking to become a hobbyist barista ☕️.
 
 
