@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics at the University of Illinois at Urbana-Champaign.
+My name is Mehul Dugar, a rising senior studying Computer Engineering and Mathematics at the University of Illinois at Urbana-Champaign.
 
 - 😄 Pronouns : He/Him
 - 💡 My Interests :
@@ -26,12 +26,11 @@ My name is Mehul Dugar, a Junior studying Computer Engineering and Mathematics a
   - 📊 Data Science and Analytics
   - 👨‍💻 App Development 
 - 🔭 I’m currently working on :
-  - A Machine Learning Grouping Tool for Gies College of Business.
-  - A Voice assistant application for AARP's Staying Sharp Program.
+  - A Membership Prediction Model for AARP's Membership data.
 - 💼 I'm currently working with :
   - AARP Tech Nest                         (Software Engineering Intern)
-  - Gies Disruption Lab                    (Project Manager)
-  - Eta Kappa Nu Alpha, ECE Honors Society (Treasurer)
+  - Gies Disruption Lab                    (Director of Recruiting)
+  - Eta Kappa Nu Alpha, ECE Honors Society (Vice President)
 - 🌱 I’m currently learning :
   - To work as a Project Manager at the Gies Disruption Lab.
   - To build voice skills which have cross-platform compatibility. (Using Jovo Framework)
