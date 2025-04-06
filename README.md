@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mehul Dugar, a Software Engineer at Amazon focussed on backend support for online grocery ordering experience. I graduated from University of Illinois at Urbana Champaign (UIUC) with a degree majoring in Computer Engineering and minoring in Mathemaics.
+My name is Mehul Dugar, a Software Engineer at Amazon focussed on backend support for online grocery shopping experience. I graduated from University of Illinois at Urbana Champaign (UIUC) with a degree majoring in Computer Engineering and minoring in Mathemaics.
 
 - 😄 Pronouns : He/Him
 - 💡 My Interests :
