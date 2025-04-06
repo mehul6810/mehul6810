@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mehul Dugar, a rising senior studying Computer Engineering and Mathematics at the University of Illinois at Urbana-Champaign.
+My name is Mehul Dugar, a Software Engineer at Amazon focussed on backend support for online grocery ordering experience. I graduated from University of Illinois at Urbana Champaign (UIUC) with a degree majoring in Computer Engineering and minoring in Mathemaics.
 
 - 😄 Pronouns : He/Him
 - 💡 My Interests :
@@ -26,21 +26,14 @@ My name is Mehul Dugar, a rising senior studying Computer Engineering and Mathem
   - 📊 Data Science and Analytics
   - 👨‍💻 App Development 
 - 🔭 I’m currently working on :
-  - A Membership Prediction Model for AARP's Membership data.
+  - Online grocery shopping experience at Amazon with focus on backend systems.
 - 💼 I'm currently working with :
-  - AARP Tech Nest                         (Software Engineering Intern)
-  - Gies Disruption Lab                    (Director of Recruiting)
-  - Eta Kappa Nu Alpha, ECE Honors Society (Vice President)
-- 🌱 I’m currently learning :
-  - To work as a Project Manager at the Gies Disruption Lab.
-  - To build voice skills which have cross-platform compatibility. (Using Jovo Framework)
-  - To build Machine Learning Models with real life applications.
+  - Amazon (SDE)
 - ⚡ Fun fact :
-  - I enjoy Photography a lot, look for photos on my website :).
-  - I also am seeking to become a hobbyist barista ☕️.
-- 💬 Ask me about by experiences at CISCO, IBM, AARP, the Gies Disruption Lab and my Course Projects.
+  - I enjoy Photography, a lot. Look for photos on my website :).
+- 💬 Ask me about by experiences at Amazon, MileIq, LightningAI, AARP, the Gies Disruption Lab and my Course Projects.
 - 📫 How to reach me : 
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/mehuldugar/).
   - Connect with me via [email](mailto:mehuldugar@gmail.com?subject=[GitHub]%20Github%20Profile).
   
-For more information on my projects, take a look at my [website](mehul6810.github.io)!
+For more information on my projects, take a look at my [website](mehuldugar.com)!
